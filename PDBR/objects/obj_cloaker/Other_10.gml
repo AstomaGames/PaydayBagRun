@@ -15,15 +15,11 @@ if health_ >= 0
 
 if health_ <= 0 
 {
-	cloakerdown = 1
 	instance_destroy()
 }
 
 if distance_to_object(obj_player) < 48 {
 	state = attack_
-}
-if distance_to_object(obj_player) < 48 && state = attack_ {
-	instance_create_layer(0,0,"Instances",obj_taunt)
 }
 
 if cloakerdown = 1 {

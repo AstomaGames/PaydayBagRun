@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "06885d02-3f95-49e5-85c2-e310843db606",
+            "Value": {
+                "id": "2b0892a9-e313-430b-b0a2-aec29b256f26",
+                "resourcePath": "fonts\\fnt_payday\\fnt_payday.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "06da8cae-cc89-4760-a08c-0f2a2882c8d1",
             "Value": {
                 "id": "950e5a12-93f2-4bcd-83c6-91e9afca18a1",
@@ -167,14 +175,6 @@
             }
         },
         {
-            "Key": "60cb08d2-7db7-43a0-9a7b-001b42d3a2d7",
-            "Value": {
-                "id": "0728815e-7e81-49e8-bf57-eb8731327c1b",
-                "resourcePath": "sounds\\snd_cloaker2\\snd_cloaker2.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
             "Key": "6420d9ef-1a1d-4d7a-9b0d-f7331ceb61ae",
             "Value": {
                 "id": "4f91ba72-41e6-408e-bf74-5413f7a83092",
@@ -183,19 +183,19 @@
             }
         },
         {
+            "Key": "7240dc71-ec6b-4c20-9bd4-99671ae3032d",
+            "Value": {
+                "id": "3402238b-1521-42e9-ba05-dd3742606b3a",
+                "resourcePath": "objects\\obj_pressplay\\obj_pressplay.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "768d2be3-8037-449f-8947-7bfd826bb8c5",
             "Value": {
                 "id": "3d85c895-3aa9-4011-8e87-e04fb6256330",
                 "resourcePath": "sounds\\snd_shot\\snd_shot.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "7768d2b4-c5a7-473d-a4f3-e39ad094d8ab",
-            "Value": {
-                "id": "6ade8f3c-8850-4b5b-9681-6d9d6e2efeef",
-                "resourcePath": "views\\7768d2b4-c5a7-473d-a4f3-e39ad094d8ab.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -263,14 +263,6 @@
             }
         },
         {
-            "Key": "9dd3a147-012f-4892-bbc8-2d1428937591",
-            "Value": {
-                "id": "1d95efcc-74d5-4819-947b-1ccf91a0cd64",
-                "resourcePath": "sounds\\snd_cloaker1\\snd_cloaker1.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
             "Key": "a0b7f3e1-66ba-49e1-8256-fec9c0d546d1",
             "Value": {
                 "id": "62ed4d2d-eb66-4fec-813c-ed859e58c7cd",
@@ -283,14 +275,6 @@
             "Value": {
                 "id": "bb11ed57-357a-4b5d-871e-4b952952a5cc",
                 "resourcePath": "sounds\\snd_backgroundmusic\\snd_backgroundmusic.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "af486839-144c-4373-8275-492f5cccc324",
-            "Value": {
-                "id": "eb5414d1-de8f-4092-b1ee-195cd2cb77e0",
-                "resourcePath": "sounds\\snd_cloaker3\\snd_cloaker3.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -351,14 +335,6 @@
             }
         },
         {
-            "Key": "ef430378-ca40-4517-b50f-c95ca16c6dd4",
-            "Value": {
-                "id": "de0f4e92-1c7b-4542-9b3b-2cd73c367bcc",
-                "resourcePath": "objects\\obj_taunt\\obj_taunt.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "f1ff324d-8e2a-41b6-9d54-adf9363b0006",
             "Value": {
                 "id": "8caec71f-064c-412b-9680-5b1adc2dc30c",
@@ -388,6 +364,14 @@
                 "id": "4fdfc03b-ae0e-4e2e-9110-bc3a6c1444fe",
                 "resourcePath": "views\\f5adb486-4b99-4461-b5ff-1488f68b1657.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f6e0fd33-322b-4728-b7ba-059c40cd20b6",
+            "Value": {
+                "id": "1c6e9b66-1103-4f76-839d-4c986efa7241",
+                "resourcePath": "sprites\\spr_pressplay\\spr_pressplay.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
