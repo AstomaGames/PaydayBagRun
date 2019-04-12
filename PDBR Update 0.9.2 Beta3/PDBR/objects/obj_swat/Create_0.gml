@@ -2,6 +2,9 @@ speed_= [0,0]
 acceleration_ = 0.05
 max_speed = 1
 health_ = 5
+shotsfired = 0
+shootpause = false
+lowhealth = false
 
 movement_ = 0
 swatdown = false
@@ -20,6 +23,3 @@ alarm[0]=bullet_cooldown
 
 x_scale=image_xscale
 y_scale=image_yscale
-
-image_index = 2
-image_speed = 0

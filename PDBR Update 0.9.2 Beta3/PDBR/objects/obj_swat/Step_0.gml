@@ -2,9 +2,11 @@ event_user(state)
 //scr_warpttb()
 //scr_warpsts()
 
-if health_ = 2
+if health_ <= 2
 {
-	image_index = 2
+	lowhealth = true
+} else {
+	lowhealth = false
 }
 if health_ <= 0 
 {
