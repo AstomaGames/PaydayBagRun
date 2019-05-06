@@ -22,4 +22,3 @@ if instance_exists(obj_player)
 		scr_m590()
 	}
 }
-//AJFUAKGFSEGFYEJAGFUEAGUKEGUKSEGSEUK >:(

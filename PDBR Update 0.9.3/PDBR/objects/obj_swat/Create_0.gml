@@ -3,15 +3,12 @@ acceleration_ = 0.05
 max_speed = 1
 health_ = 5
 shotsfired = 0
-shootpause = false
 lowhealth = false
 
 movement_ = 0
 swatdown = false
 hitmarker = false
 hit = false
-firing = false
-dir = point_direction(x,y-sprite_height/2,obj_player.x,obj_player.y)
 selectedweapon = irandom_range(0,1)
 mp5 = false
 m590 = false

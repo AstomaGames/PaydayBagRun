@@ -1,5 +1,5 @@
 if instance_exists(obj_player) {
-	var sgdir=point_direction(x,y-sprite_height/2,obj_player.x,obj_player.y * irandom_range(-1.5,1.5))
+	var sgdir=point_direction(x,y-sprite_height/2,obj_player.x,obj_player.y)
 	var x_offset=lengthdir_x(20,sgdir)
 	var y_offset=lengthdir_y(20,sgdir)
 	if alarm[0] <= 0 && instance_exists(obj_player) {
