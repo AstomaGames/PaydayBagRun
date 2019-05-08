@@ -7,14 +7,15 @@ if instance_exists(obj_player) {
 		bullet.image_angle = mpdir
 		bullet.direction = mpdir
 		audio_play_sound(snd_shoten,2,0)
-		alarm[0]=obj_swat.bullet_cooldown
-		obj_swat.shotsfired += 1
+		alarm[0]=bullet_cooldown
+		shotsfired += 1
 	}
 	if !instance_exists(obj_player) {
 		bullet.image_angle = 0
 		bullet.direction = 0
 	}
 }
-if obj_swat.shotsfired >= 15 {
-	alarm[1]=obj_swat.bullet_cooldown = 0
+if shotsfired >= 15 {
+	alarm[0]=game_get_speed(gamespeed_fps) * 2
+	shotsfired = 0
 }
