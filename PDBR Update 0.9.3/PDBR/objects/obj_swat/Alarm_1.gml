@@ -1,1 +1,0 @@
-shotsfired = 0
