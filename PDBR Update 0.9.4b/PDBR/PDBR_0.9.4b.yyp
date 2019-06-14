@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "202ec427-02fe-44c2-a09d-f6fba55755f3",
+            "Value": {
+                "id": "4d646f8a-3faa-45af-b8cd-c26eec2c248a",
+                "resourcePath": "sounds\\snd_hurtpl\\snd_hurtpl.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "235054e7-7b48-4daa-b955-73d1910e9309",
             "Value": {
                 "id": "cb6447ec-60ba-4ad0-9fb6-c043b00c6938",
@@ -263,6 +271,22 @@
             }
         },
         {
+            "Key": "3a5af38c-757d-41ae-98c0-5d4b09e14e6a",
+            "Value": {
+                "id": "71c9d755-1e48-4861-aad7-f52a37479ebb",
+                "resourcePath": "options\\switch\\options_switch.yy",
+                "resourceType": "GMSwitchOptions"
+            }
+        },
+        {
+            "Key": "3a5af38c-757d-44ae-98c0-5d4b09e14e6a",
+            "Value": {
+                "id": "4f5d2e4e-eb46-4aba-8f4a-0a1ffe35eb44",
+                "resourcePath": "options\\ps4\\options_ps4.yy",
+                "resourceType": "GMPS4Options"
+            }
+        },
+        {
             "Key": "41df65d3-f6fb-4d18-9113-18eb0011e725",
             "Value": {
                 "id": "a6c154ba-7b72-4f95-b2e9-62d306d94808",
@@ -311,6 +335,14 @@
             }
         },
         {
+            "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
+            "Value": {
+                "id": "6c1e4af6-a145-4197-832f-9ba58f6bd8c1",
+                "resourcePath": "options\\html5\\options_html5.yy",
+                "resourceType": "GMHtml5Options"
+            }
+        },
+        {
             "Key": "768d2be3-8037-449f-8947-7bfd826bb8c5",
             "Value": {
                 "id": "3d85c895-3aa9-4011-8e87-e04fb6256330",
@@ -332,6 +364,14 @@
                 "id": "b6318a6c-41e5-4d8e-a8fb-b4d151196c08",
                 "resourcePath": "scripts\\scr_mp5\\scr_mp5.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
+            "Value": {
+                "id": "127a657e-e8a9-49e4-8b42-75802db75271",
+                "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
+                "resourceType": "GMWindowsUAPOptions"
             }
         },
         {
@@ -359,6 +399,14 @@
             }
         },
         {
+            "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
+            "Value": {
+                "id": "456db6f7-21bd-4130-8532-d3337e636af2",
+                "resourcePath": "options\\ios\\options_ios.yy",
+                "resourceType": "GMiOSOptions"
+            }
+        },
+        {
             "Key": "8a18d2d0-abdf-4aa3-b03d-f78f9c24fcf9",
             "Value": {
                 "id": "7038f6c3-7088-49cf-b229-b4d683eccb78",
@@ -380,6 +428,14 @@
                 "id": "9c67a65c-4c57-47d1-8a6d-502bcc28207e",
                 "resourcePath": "views\\902402fc-0d98-4b5a-b905-143f829193f8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
+            "Value": {
+                "id": "66b7c51b-ff7c-4545-93b4-2272ee87a237",
+                "resourcePath": "options\\tvos\\options_tvos.yy",
+                "resourceType": "GMtvOSOptions"
             }
         },
         {
@@ -415,11 +471,27 @@
             }
         },
         {
+            "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
+            "Value": {
+                "id": "d4238df8-c946-43dc-b990-cf8b66130388",
+                "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
+                "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
             "Key": "a61021e6-90de-46c2-8adc-7f80c4a1b6f9",
             "Value": {
                 "id": "64b4cc57-a772-4919-b467-9ef062173e60",
                 "resourcePath": "objects\\obj_bullethitperson\\obj_bullethitperson.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "b4c295b4-80e4-4bac-8cac-f8ea4a743da7",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
             }
         },
         {
@@ -543,6 +615,14 @@
             }
         },
         {
+            "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
+            "Value": {
+                "id": "951aac9e-0d0e-47b2-a92a-28c9fb5d4cd6",
+                "resourcePath": "options\\android\\options_android.yy",
+                "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
             "Key": "e6d84359-f9eb-4ef9-8720-c91d33e6d9af",
             "Value": {
                 "id": "f7befd0c-aa96-4619-bd3c-850b0e9435d6",
@@ -599,6 +679,14 @@
             }
         },
         {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "42a17638-6bef-4aa9-9dc4-1c4075f79517",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
+            }
+        },
+        {
             "Key": "f434ebf5-4c16-455e-84f5-f715e5859e58",
             "Value": {
                 "id": "8e22c417-e9a6-41d5-8687-7df90bb5a041",
@@ -628,6 +716,14 @@
                 "id": "bc609c5a-63c2-47eb-a621-d9f81c981b4e",
                 "resourcePath": "views\\f78f7192-c147-422b-8529-00ffcae77e6c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f85efd3d-bcec-4ec0-8226-da808afda79d",
+            "Value": {
+                "id": "b46343db-74bd-41d2-b06e-f0632dc6c01a",
+                "resourcePath": "options\\xboxone\\options_xboxone.yy",
+                "resourceType": "GMXBoxOneOptions"
             }
         },
         {

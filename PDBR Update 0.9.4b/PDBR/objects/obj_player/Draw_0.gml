@@ -1,6 +1,9 @@
 //Draw Player + Gun
 var flipped=(mouse_x>x)*2-1
+var interval_ = 8
+if (alarm[3] % interval_) <= interval_/2 {
 draw_sprite_ext(spr_player,image_index,x,ceil(y),x_scale*flipped,y_scale,0,image_blend,image_alpha)
+}
 draw_set_font(fnt_ocr)
 
 if reloadempty = true && reloadtactical = false {

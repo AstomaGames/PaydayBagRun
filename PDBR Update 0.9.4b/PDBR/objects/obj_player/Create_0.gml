@@ -12,6 +12,7 @@ reloadtactical = false
 reloadedempty = false
 reloadedtactical = true
 reloading  = false
+invincible = false
 //Keyboard Binding
 keyboard_set_map(vk_left, ord("A"))
 keyboard_set_map(vk_right, ord("D"))
